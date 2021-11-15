@@ -13,7 +13,7 @@ Features of quizzer web app:
 
 
 
-Sr No.Comparison Feature	surveyAnyPlace	                                                            quizzer
+Sr No.Comparison Feature	      surveyAnyPlace	                                                            quizzer
 1	Communication	            The facility of communication is not available in which                 	In which communication facility is available
 2	All Devises	                  Its only for mobile and tablets	                                          Its web based
 3	Custome test	            available	                                                                  available
