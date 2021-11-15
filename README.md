@@ -10,3 +10,11 @@ Features of quizzer web app:
 3.	Profile: you can update profile by clicking on edit button.
 4.	Communicate: in which you can communicate.
 5.	Custom test: you can create, update and delete quiz accordingly syllabus.
+
+
+
+Sr No.Comparison Feature	surveyAnyPlace	                                                            quizzer
+1	Communication	            The facility of communication is not available in which                 	In which communication facility is available
+2	All Devises	                  Its only for mobile and tablets	                                          Its web based
+3	Custome test	            available	                                                                  available
+4	price	                        paid	                                                                        Totally free
