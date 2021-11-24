@@ -1,19 +1,9 @@
 # Quizzer-The-online-exam-taking-platform-
 SE project
 Name: Ali Hussnain
-Id:f2019266161
+Id:F2019266161
+Name: Ahsan Ali
+Id:F2019266...
+Name: M. Soban Mian
+Id:F2019266137
 
-Features of quizzer web app:
-
-
-
-
-
-
-	Communication feature in surveyAnyPlace The facility of communication is not available,In quizzer communication facility is available
-      
-        surveyAnyPlace Its only for mobile and tablets,quizzer Its web based
-      
-	Custom test feature is available on both application	
-      
-	price	of surveyAnyPlace is paid,quizzer is Totally free
